@@ -27,6 +27,7 @@ This project showcases:
 - **CSS3**
 - **Font Awesome 6**
 - **Google Fonts (Roboto, Source Sans 3)**
+-  **BootStrap5.3**
 
 ---
 
