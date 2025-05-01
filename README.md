@@ -1,10 +1,9 @@
-# devfolio-bootstrap
 # ⚠️ Important Notice
 It was built as part of my **Full Stack Web Development Diploma at [Route Academy]** — a leading software training center in Egypt.
 
 ---
 
-# 📁 DevFolio-PortfolioClone
+# 📁 DevFolio-bootstrap
 
 A modern, responsive portfolio website built with **HTML5**, **CSS3**, and **Font Awesome**, inspired by the popular DevFolio template.
 
